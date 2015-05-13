@@ -1,24 +1,9 @@
-Time Lapse Opencv
+Threshold Opencv
 =================
 
-A tool that captures time lapse videos - written in C++ using opencv.
+A tool that can convert images of writings on white board to pure black and white (binary) images.
 
-Use your laptop's inbuilt webcam or connect one.
-
-Point it - at a landscape - at a busy walkway - at your lawn - you choose
-
-..aaand, run the tool.
-
-Viola! Time Lapse Video Recording!!
-
-Take a nap and come back to get an awesome video footage of your dream scene.
-
-
-
-It can output jpg image frames.
-
-Use ffmpeg to combine images into a video.
-
+usage: `Threshold white_board_capture1.jpg`
 
 How do i get it?
 ----------------
